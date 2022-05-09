@@ -1,0 +1,7 @@
+com\fabricode\customer\CustomerService.class
+com\fabricode\customer\CustomerController.class
+com\fabricode\customer\CustomerRepository.class
+com\fabricode\customer\CustomerApplication.class
+com\fabricode\customer\Customer$CustomerBuilder.class
+com\fabricode\customer\Customer.class
+com\fabricode\customer\CustomerRegistrationRequest.class
